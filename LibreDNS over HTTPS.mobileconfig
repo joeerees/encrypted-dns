@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>PayloadContent</key>
+<array>
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerAddresses</key>
+<array>
+<string>116.202.176.26</string>
+</array>
+<key>ServerURL</key>
+<string>https://doh.libredns.gr/dns-query</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string>LibreDNS over HTTPS</string>
+<key>PayloadDescription</key>
+<string>This profile configures your device to use LibreDNS over HTTPS.
+
+It is compatible with devices running iOS 14 and macOS 11.0 or later.</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadIdentifier</key>
+<string>com.apple.dnsSettings.managed.7EBB7EAE-EEDA-4D3D-9B13-6DE10F944E56</string>
+<key>PayloadUUID</key>
+<string>A54B03B8-9A46-4481-AB6A-221057ABCD78</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+<key>ProhibitDisablement</key>
+<false/>
+</dict>
+</array>
+<key>PayloadDisplayName</key>
+<string>LibreDNS over HTTPS</string>
+<key>PayloadDescription</key>
+<string>This profile configures your device to use LibreDNS over HTTPS.
+
+It is compatible with devices running iOS 14 and macOS 11.0 or later.</string>
+<key>PayloadType</key>
+<string>Configuration</string>
+<key>PayloadIdentifier</key>
+<string>com.joseph-rees.encrypted-dns</string>
+<key>PayloadUUID</key>
+<string>33329880-71DF-45B6-BD4E-65EF213DC934</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+<key>PayloadRemovalDisallowed</key>
+<false/>
+</dict>
+</plist>
